@@ -80,6 +80,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
             {
                 if (id == EditorInfo.IME_ACTION_DONE || id == EditorInfo.IME_NULL)
                 {
+
                     attemptLogin();
                     return true;
                 }
