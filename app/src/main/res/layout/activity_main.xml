@@ -40,5 +40,6 @@
         android:layout_height="20dp"
         android:background="?selectableItemBackground"
         android:clickable="true">
+    </FrameLayout>
 
 </LinearLayout>
